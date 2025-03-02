@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a588042-d04e-4b22-b3e3-88a8965e408a" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/Selenium27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_28022025/HomeWork2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +61,8 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.HomeWork1.testRegisterAwsomeQA.executor": "Run",
+    "TestNG.HomeWork2.testRegisterAwsomeQA.executor": "Run",
     "TestNG.Selenium03.test_001.executor": "Run",
     "TestNG.Selenium08.testMethod01.executor": "Run",
     "TestNG.Selenium09.testMethod01.executor": "Run",
@@ -85,6 +75,7 @@
     "TestNG.Selenium24.testVWOLoginNegative.executor": "Run",
     "TestNG.Selenium25.testVWOLoginNegative.executor": "Run",
     "TestNG.Selenium26.testRadioButtonClick.executor": "Run",
+    "TestNG.Selenium27.testFreeTrialErrorMsg.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/teju3/IdeaProjects/LearningSelenium2025/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_27022025"
@@ -99,7 +90,43 @@
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_27022025" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium27.testFreeTrialErrorMsg">
+  <component name="RunManager" selected="TestNG.HomeWork2.testRegisterAwsomeQA">
+    <configuration name="HomeWork1.testRegisterAwsomeQA" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.HomeWork1" />
+      <option name="METHOD_NAME" value="testRegisterAwsomeQA" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork2.testRegisterAwsomeQA" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.HomeWork2" />
+      <option name="METHOD_NAME" value="testRegisterAwsomeQA" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Selenium24" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
@@ -127,42 +154,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
       <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.Selenium24" />
-      <option name="METHOD_NAME" value="testVWOLoginNegative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium24.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.Selenium24" />
-      <option name="METHOD_NAME" value="testVWOLoginNegative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium25.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.Selenium25" />
       <option name="METHOD_NAME" value="testVWOLoginNegative" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -209,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HomeWork2.testRegisterAwsomeQA" />
+        <item itemvalue="TestNG.HomeWork1.testRegisterAwsomeQA" />
         <item itemvalue="TestNG.Selenium27.testFreeTrialErrorMsg" />
         <item itemvalue="TestNG.Selenium26.testRadioButtonClick" />
         <item itemvalue="TestNG.Selenium24" />
-        <item itemvalue="TestNG.Selenium25.testVWOLoginNegative" />
-        <item itemvalue="TestNG.Selenium24.testVWOLoginNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740837281942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <option name="closed" value="true" />
+      <created>1740921213723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740921213723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
