@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a588042-d04e-4b22-b3e3-88a8965e408a" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +78,8 @@
     "TestNG.Selenium28.test_verify_expire_page.executor": "Run",
     "TestNG.Selenium29.test_verify_expire_page.executor": "Run",
     "TestNG.Selenium30.test_verify_print_imac_prices.executor": "Run",
+    "TestNG.Selenium31.test_verify_print_imac_prices.executor": "Run",
+    "TestNG.Selenium32.testVWOLogin.executor": "Debug",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/teju3/IdeaProjects/LearningSelenium2025/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_27022025"
@@ -96,25 +95,7 @@
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_27022025" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium31.test_verify_print_imac_prices">
-    <configuration name="HomeWork2.testRegisterAwsomeQA" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_28022025.HomeWork2" />
-      <option name="METHOD_NAME" value="testRegisterAwsomeQA" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Selenium32.testVWOLogin">
     <configuration name="Selenium28.test_verify_expire_page" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
@@ -187,13 +168,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium32.testVWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_29022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_29022025" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_29022025.Selenium32" />
+      <option name="METHOD_NAME" value="testVWOLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium32.testVWOLogin" />
         <item itemvalue="TestNG.Selenium31.test_verify_print_imac_prices" />
         <item itemvalue="TestNG.Selenium30.test_verify_print_imac_prices" />
         <item itemvalue="TestNG.Selenium28.test_verify_expire_page" />
         <item itemvalue="TestNG.Selenium29.test_verify_expire_page" />
-        <item itemvalue="TestNG.HomeWork2.testRegisterAwsomeQA" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740923504277</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1741016618562</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741016618563</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
