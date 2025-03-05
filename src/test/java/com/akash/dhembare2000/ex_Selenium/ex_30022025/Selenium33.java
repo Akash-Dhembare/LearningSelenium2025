@@ -1,4 +1,4 @@
-package com.akash.dhembare2000.ex_Selenium.ex_29022025;
+package com.akash.dhembare2000.ex_Selenium.ex_30022025;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class Selenium32 {
+public class Selenium33 {
     @Description ("Verify that app.vwo.com login success")
     @Test
     public void testVWOLogin(){
@@ -22,6 +22,8 @@ public class Selenium32 {
         WebDriver driver= new EdgeDriver(edgeOptions);
         driver.get("https://app.vwo.com/#/login");
 
+        // Implicit Wait
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
         WebElement username= driver.findElement(By.xpath("//input[@id='login-username']"));
         username.sendKeys("akash@gmail.com");
