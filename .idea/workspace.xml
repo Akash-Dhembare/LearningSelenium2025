@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a588042-d04e-4b22-b3e3-88a8965e408a" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium36_Fluent_Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium37_InputBox_CheckBox_RadioBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/WaitHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium38_Select_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium39_Alerts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_29022025/Selenium32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium37_InputBox_CheckBox_RadioBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_30022025/Selenium37_InputBox_CheckBox_RadioBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,48 +49,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Selenium01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium18.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium21.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.HomeWork1.testRegisterAwsomeQA.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.HomeWork2.testRegisterAwsomeQA.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium03.test_001.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium08.testMethod01.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium09.testMethod01.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium10.testQuitVsClose.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium12.testVWOLoginPageTitle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium13.testHerokuApp.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium14.testVWOLoginPageTitle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium15.vwoLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium24.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium24.testVWOLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium25.testVWOLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium26.testRadioButtonClick.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium27.testFreeTrialErrorMsg.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium28.test_verify_expire_page.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium29.test_verify_expire_page.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium30.test_verify_print_imac_prices.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium31.test_verify_print_imac_prices.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium32.testVWOLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium34.testVWOLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium35.testVWOLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium36_Fluent_Wait.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium36_Fluent_Wait.testVWOLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/teju3/IdeaProjects/LearningSelenium2025/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_27022025&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Selenium01.executor": "Run",
+    "Application.Selenium02.executor": "Run",
+    "Application.Selenium06.executor": "Run",
+    "Application.Selenium07.executor": "Run",
+    "Application.Selenium10.executor": "Run",
+    "Application.Selenium11.executor": "Run",
+    "Application.Selenium18.executor": "Run",
+    "Application.Selenium21.executor": "Run",
+    "Application.Selenium37_InputBox_CheckBox_RadioBox.executor": "Run",
+    "Application.Selenium39_Alerts.executor": "Run",
+    "Application.Selenium_Select_Static.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.HomeWork1.testRegisterAwsomeQA.executor": "Run",
+    "TestNG.HomeWork2.testRegisterAwsomeQA.executor": "Run",
+    "TestNG.Selenium03.test_001.executor": "Run",
+    "TestNG.Selenium08.testMethod01.executor": "Run",
+    "TestNG.Selenium09.testMethod01.executor": "Run",
+    "TestNG.Selenium10.testQuitVsClose.executor": "Run",
+    "TestNG.Selenium12.testVWOLoginPageTitle.executor": "Run",
+    "TestNG.Selenium13.testHerokuApp.executor": "Run",
+    "TestNG.Selenium14.testVWOLoginPageTitle.executor": "Run",
+    "TestNG.Selenium15.vwoLogin.executor": "Run",
+    "TestNG.Selenium24.executor": "Run",
+    "TestNG.Selenium24.testVWOLoginNegative.executor": "Run",
+    "TestNG.Selenium25.testVWOLoginNegative.executor": "Run",
+    "TestNG.Selenium26.testRadioButtonClick.executor": "Run",
+    "TestNG.Selenium27.testFreeTrialErrorMsg.executor": "Run",
+    "TestNG.Selenium28.test_verify_expire_page.executor": "Run",
+    "TestNG.Selenium29.test_verify_expire_page.executor": "Run",
+    "TestNG.Selenium30.test_verify_print_imac_prices.executor": "Run",
+    "TestNG.Selenium31.test_verify_print_imac_prices.executor": "Run",
+    "TestNG.Selenium32.testVWOLogin.executor": "Run",
+    "TestNG.Selenium34.testVWOLoginNegative.executor": "Run",
+    "TestNG.Selenium35.testVWOLoginNegative.executor": "Run",
+    "TestNG.Selenium36_Fluent_Wait.executor": "Run",
+    "TestNG.Selenium36_Fluent_Wait.testVWOLoginNegative.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/teju3/IdeaProjects/LearningSelenium2025/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_27022025"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\teju3\IdeaProjects\LearningSelenium2025\src\test\java\com\akash\dhembare2000\ex_Selenium\ex_27022025" />
@@ -106,26 +105,9 @@
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_27022025" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium36_Fluent_Wait.testVWOLoginNegative">
-    <configuration name="Selenium32.testVWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_29022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_29022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_29022025.Selenium32" />
-      <option name="METHOD_NAME" value="testVWOLogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium34.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Selenium39_Alerts">
+    <configuration name="Selenium37_InputBox_CheckBox_RadioBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025.Selenium37_InputBox_CheckBox_RadioBox" />
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
@@ -133,17 +115,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025.Selenium34" />
-      <option name="METHOD_NAME" value="testVWOLoginNegative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium35.testVWOLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium38_Select_Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025.Selenium38_Select_Static" />
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
@@ -151,12 +128,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025.Selenium35" />
-      <option name="METHOD_NAME" value="testVWOLoginNegative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium39_Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_30022025.Selenium39_Alerts" />
+      <module name="LearningSelenium2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_30022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Selenium39_Alerts" />
+        <item itemvalue="Application.Selenium38_Select_Static" />
+        <item itemvalue="Application.Selenium37_InputBox_CheckBox_RadioBox" />
         <item itemvalue="TestNG.Selenium36_Fluent_Wait.testVWOLoginNegative" />
         <item itemvalue="TestNG.Selenium36_Fluent_Wait" />
-        <item itemvalue="TestNG.Selenium35.testVWOLoginNegative" />
-        <item itemvalue="TestNG.Selenium34.testVWOLoginNegative" />
-        <item itemvalue="TestNG.Selenium32.testVWOLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741017229746</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=".">
+      <option name="closed" value="true" />
+      <created>1741181966779</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741181966779</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
