@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a588042-d04e-4b22-b3e3-88a8965e408a" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium40_SVG_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium41_SVG_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium41_SVG_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium43_JS_Demo_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium44_JS_Demo_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium45_WebTables_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +95,8 @@
     "TestNG.Selenium41_SVG_P3.test_svg_india_search.executor": "Run",
     "TestNG.Selenium42_JS_Demo_1.executor": "Run",
     "TestNG.Selenium44_JS_Demo_2.executor": "Run",
+    "TestNG.Selenium45_WebTables_Static.executor": "Run",
+    "TestNG.Selenium46.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/teju3/IdeaProjects/LearningSelenium2025/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_27022025"
@@ -115,25 +114,7 @@
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_27022025" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium44_JS_Demo_2">
-    <configuration name="Selenium41_SVG_P2.test_svg_india_search" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium41_SVG_P2" />
-      <option name="METHOD_NAME" value="test_svg_india_search" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Selenium46">
     <configuration name="Selenium41_SVG_P3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
@@ -145,24 +126,6 @@
       <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
       <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium41_SVG_P3" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium41_SVG_P3.test_svg_india_search" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium2025" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium41_SVG_P3" />
-      <option name="METHOD_NAME" value="test_svg_india_search" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -203,13 +166,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium45_WebTables_Static" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium45_WebTables_Static" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium46" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium2025" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium46" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium46" />
+        <item itemvalue="TestNG.Selenium45_WebTables_Static" />
         <item itemvalue="TestNG.Selenium44_JS_Demo_2" />
         <item itemvalue="TestNG.Selenium43_JS_Demo_1" />
         <item itemvalue="TestNG.Selenium41_SVG_P3" />
-        <item itemvalue="TestNG.Selenium41_SVG_P3.test_svg_india_search" />
-        <item itemvalue="TestNG.Selenium41_SVG_P2.test_svg_india_search" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741187664793</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=".">
+      <option name="closed" value="true" />
+      <created>1741243977754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741243977754</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
