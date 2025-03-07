@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a588042-d04e-4b22-b3e3-88a8965e408a" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium45_WebTables_Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium46_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium47_WebTables_Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium48_Actions_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium49_Actions_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium50_Actions_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium51_Action_Windows_P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium52_Actions_Windows_Iframe_P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium53_Actions_P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium54_Actions_P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium55_Relative_Locators_P8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium56_Relative_Locators_P9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_32022025_Actions_Windows_IFrames/Selenium57_Relative_Locators_P10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_31022025/Selenium46.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +109,20 @@
     "TestNG.Selenium44_JS_Demo_2.executor": "Run",
     "TestNG.Selenium45_WebTables_Static.executor": "Run",
     "TestNG.Selenium46.executor": "Run",
+    "TestNG.Selenium46_1.executor": "Run",
+    "TestNG.Selenium47_WebTables_Dynamic.executor": "Run",
+    "TestNG.Selenium48_Actions_P1.executor": "Run",
+    "TestNG.Selenium49_Actions_P2.executor": "Run",
+    "TestNG.Selenium49_Actions_P2.test_actions.executor": "Run",
+    "TestNG.Selenium50.executor": "Run",
+    "TestNG.Selenium50_Actions_P3.executor": "Run",
+    "TestNG.Selenium51_Action_Windows_P4.executor": "Run",
+    "TestNG.Selenium52_Actions_Windows_Iframe_P5.executor": "Run",
+    "TestNG.Selenium53_Actions_P6.executor": "Run",
+    "TestNG.Selenium54_Actions_P7.executor": "Run",
+    "TestNG.Selenium55_Relative_Locators_P8.executor": "Run",
+    "TestNG.Selenium56_Relative_Locators_P9.executor": "Run",
+    "TestNG.Selenium57_Relative_Locators_P10.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/teju3/IdeaProjects/LearningSelenium2025/src/test/java/com/akash/dhembare2000/ex_Selenium/ex_27022025"
@@ -107,24 +133,24 @@
       <recent name="C:\Users\teju3\IdeaProjects\LearningSelenium2025\src\test\java\com\akash\dhembare2000\ex_Selenium\ex_27022025" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.akash.dhembare2000.ex_Selenium.ex_32022025" />
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_30022025" />
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_29022025" />
       <recent name="com.akash.dhembare2000.ex_Selenium.ex_28022025" />
-      <recent name="com.akash.dhembare2000.ex_Selenium.ex_27022025" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium46">
-    <configuration name="Selenium41_SVG_P3" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Selenium57_Relative_Locators_P10">
+    <configuration name="Selenium53_Actions_P6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium41_SVG_P3" />
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.Selenium53_Actions_P6" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -132,16 +158,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium43_JS_Demo_1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium54_Actions_P7" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium43_JS_Demo_1" />
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.Selenium54_Actions_P7" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -149,16 +175,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium44_JS_Demo_2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium55_Relative_Locators_P8" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium44_JS_Demo_2" />
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.Selenium55_Relative_Locators_P8" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -166,16 +192,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium45_WebTables_Static" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium56_Relative_Locators_P9" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium45_WebTables_Static" />
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.Selenium56_Relative_Locators_P9" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -183,16 +209,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium46" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium57_Relative_Locators_P10" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium2025" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.*" />
+          <option name="PATTERN" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025" />
-      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_31022025.Selenium46" />
+      <option name="PACKAGE_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames" />
+      <option name="MAIN_CLASS_NAME" value="com.akash.dhembare2000.ex_Selenium.ex_32022025_Actions_Windows_IFrames.Selenium57_Relative_Locators_P10" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -202,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Selenium46" />
-        <item itemvalue="TestNG.Selenium45_WebTables_Static" />
-        <item itemvalue="TestNG.Selenium44_JS_Demo_2" />
-        <item itemvalue="TestNG.Selenium43_JS_Demo_1" />
-        <item itemvalue="TestNG.Selenium41_SVG_P3" />
+        <item itemvalue="TestNG.Selenium57_Relative_Locators_P10" />
+        <item itemvalue="TestNG.Selenium56_Relative_Locators_P9" />
+        <item itemvalue="TestNG.Selenium55_Relative_Locators_P8" />
+        <item itemvalue="TestNG.Selenium54_Actions_P7" />
+        <item itemvalue="TestNG.Selenium53_Actions_P6" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741243977754</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=".">
+      <option name="closed" value="true" />
+      <created>1741278873249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741278873249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
